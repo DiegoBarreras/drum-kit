@@ -1,0 +1,64 @@
+body{
+  background-color: #F6E7D8;
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  line-height: 70px;
+}
+
+h1{
+  color: #874356;
+  font-weight: 900;
+  font-size: 100px;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+button{
+  color: #C65D7B;
+  width: 200px;
+  height: 200px;
+  font-weight: 500;
+  font-size: 80px;
+  -webkit-text-stroke: 2px #874356;
+  margin: 15px;
+  margin-bottom: 340px;
+  border: 10px;
+  border-style: ridge;
+  border-color: #F68989;
+  border-radius: 10px;
+  box-shadow: 0 30px 30px rgba(0, 0, 0, .5);
+}
+
+#wbutton{
+  background-image: url(images/tom1.png);
+  background-size: 220px;
+}
+
+#abutton{
+  background-image: url(images/tom2.png);
+  background-size: 220px;
+}
+
+#sbutton{
+  background-image: url(images/tom3.png);
+  background-size: 180px;
+}
+
+#dbutton{
+  background-image: url(images/tom4.png);
+  background-size: 185px;
+}
+
+#jbutton{
+  background-image: url(images/snare.png);
+  background-position: right 50% bottom 100%;
+  background-size: 160px;
+}
+
+#kbutton{
+  background-image: url(images/crash.png);
+}
+
+#lbutton{
+  background-image: url(images/kick.png);
+}
